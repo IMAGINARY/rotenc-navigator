@@ -25,7 +25,7 @@ pio run -e teensylc-wasd -t upload
 
 ## Additional configuration
 
-Custom pins and keys codes can be configured by adjusting the respective macros in `src/main.cpp`. It is also possible to adjust these values via build flags (see `platformio.ini`).
+Custom pins and key codes can be configured by adjusting the respective macros in `src/main.cpp`. It is also possible to adjust these values via build flags (see `platformio.ini`).
 
 It should also be possible to use [other Teensy boards] by modifying `platformio.ini`. Pull requests are welcome.
 
